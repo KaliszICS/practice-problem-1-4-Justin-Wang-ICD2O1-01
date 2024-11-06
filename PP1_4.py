@@ -3,7 +3,7 @@
 def q1():
   #Write Assignment code here
   num = input("Input a word: ")
-  print(f"The word is {num}")
+  print("The word is:", num)
 
 def q2():
   #Write Assignment code here
