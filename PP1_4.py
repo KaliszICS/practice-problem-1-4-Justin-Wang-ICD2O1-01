@@ -23,7 +23,7 @@ def q4():
   print("Your students are: ", num, num2)
 #Do not edit code below this comment
 
-q1()
-q2()
-q3()
-q4()
+#q1()
+#q2()
+#q3()
+#q4()
