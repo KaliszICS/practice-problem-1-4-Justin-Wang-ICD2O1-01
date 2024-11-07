@@ -15,7 +15,7 @@ def q3():
   #Write Assignment code here
   num = input("Input your first name: ")
   num2 = input("Input your last name: ")
-  print({num} {num2}")
+  print(f"{num} {num2}")
 def q4():
   #Write Assignment code here
   num = input("Input a student: ")
