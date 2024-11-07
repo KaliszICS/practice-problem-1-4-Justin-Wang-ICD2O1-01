@@ -9,18 +9,18 @@ def q2():
   #Write Assignment code here
   num = input("Input your first name: ")
   num = "Hello" + num
-  print(f"Your first name is {num}", )
+  print(num)
 
 def q3():
   #Write Assignment code here
   num = input("Input your first name: ")
   num2 = input("Input your last name: ")
-  print(F"{num} {num2})
+  print(F"{num} {num2}")
 def q4():
   #Write Assignment code here
   num= input("Input a student: ")
   num2= input("Input another student: ")
-  print("Your students are {num} {num2})
+  print(f"Your students are {num} {num2}")
 #Do not edit code below this comment
 
 #q1()
