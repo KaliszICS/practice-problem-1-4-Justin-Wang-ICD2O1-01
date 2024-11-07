@@ -8,19 +8,19 @@ def q1():
 def q2():
   #Write Assignment code here
   num = input("Input your first name: ")
-  num = "Hello" + num
+  num = "Hello " + num
   print(num)
 
 def q3():
   #Write Assignment code here
   num = input("Input your first name: ")
   num2 = input("Input your last name: ")
-  print(f"{num} {num2}")
+  print(f"{num2} {num}")
 def q4():
   #Write Assignment code here
   num = input("Input a student: ")
   num2 = input("Input another student: ")
-  print(f"Your students are {num} {num2}")
+  print(f"Your students are {num} and {num2}")
 #Do not edit code below this comment
 
 #q1()
