@@ -15,11 +15,11 @@ def q3():
   #Write Assignment code here
   num = input("Input your first name: ")
   num2 = input("Input your last name: ")
-  print(F"{num} {num2}")
+  print(f"{num} {num2}")
 def q4():
   #Write Assignment code here
-  num= input("Input a student: ")
-  num2= input("Input another student: ")
+  num = input("Input a student: ")
+  num2 = input("Input another student: ")
   print(f"Your students are {num} {num2}")
 #Do not edit code below this comment
 
